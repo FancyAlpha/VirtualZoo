@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+body {
+    font-family: 'Amatic SC', cursive;
+    background-color: rgb(255, 90, 50);
+    text-align: center;
+    font-size: 4vh;
+    height: 100%;
+    width: 100%;
+}
+
+#head {
+    text-align: center;
+    vertical-align: center;
+    padding-top: 15%;
+    margin-bottom: 15%;
+}
+
+#start {
+    padding: 9vh 25vw;
+    border: 10px;
+    font-size: 5vh;
+    border-radius: 15px;
+    border-style: dotted;
+    border-color: white;
+    border-width: 5px;
+    text-decoration: none;
+    -webkit-transition: all 0.7s;
+    transition: all 0.7s;
+}
+
+#start:hover {
+    background-color: white;
+    color: rgb(255, 90, 50);
+    font-size: 6vh;
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
